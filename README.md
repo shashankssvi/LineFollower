@@ -8,7 +8,7 @@ Aprender a construir un seguidor de línea con el uso de componentes electrónic
 infrarrojos, para seguir una línea de color blanco o negra.
 
 ### Material
-
+## demo
 * 2 LEDs (Del color de tu elección)
 * 5 Resistencias de 220 ohms, 330 ohms, 10 k ohms.
 * Cable Dupont (Macho-Hembra, Macho-Macho)
